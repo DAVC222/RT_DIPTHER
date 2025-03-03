@@ -1,7 +1,7 @@
 #include <cars_functions.h>
 #include <stdbool.h>
 
-// create busy strcuts
+// create busy strcuts //
 busy_police_cars_t    busy_police_cars = {0};
 busy_fire_cars_t      busy_fire_cars = {0};
 busy_ambulance_cars_t busy_ambulance_cars = {0};
